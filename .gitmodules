@@ -5,3 +5,6 @@
 [submodule "IBGS"]
 	path = IBGS
 	url = https://github.com/lizhongc/ibgs
+[submodule "fastLISA"]
+	path = fastLISA
+	url = https://github.com/lizhongc/fastlisa
